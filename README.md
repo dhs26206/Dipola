@@ -4,9 +4,9 @@ A **Node.js Deployment Platform** made by me, on which users can deploy **fronte
 
 ## Details
 
-This **Frontend** is pretty simple and a basic React app made with **Vite**. You can check it out using this [link](https://example.com)
+This **Frontend** is pretty simple and a basic React app made with **Vite**. You can check it out using this [link](https://github.com/dhs26206/Something-FrontEnd)
 
-The **Backend** is made in **Express** with integration of **MongoDB** as a database and **GitHub OAuth** as the authentication system. You can access the backend source code using this [link](https://example.com)
+The **Backend** is made in **Express** with integration of **MongoDB** as a database and **GitHub OAuth** as the authentication system. You can access the backend source code using this [link](https://github.com/dhs26206/SomethingIsForging)
 
 ## How it Works
 
